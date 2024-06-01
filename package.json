@@ -1,6 +1,6 @@
 {
   "name": "sokolnikov911/puphpeteer",
-  "version": "2.0.1-dev",
+  "version": "2.0.1",
   "description": "A Puppeteer bridge for PHP, supporting the entire API.",
   "keywords": [
     "php",
