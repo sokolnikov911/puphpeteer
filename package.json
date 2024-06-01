@@ -1,6 +1,6 @@
 {
-  "name": "sokolnikov911/puphpeteer",
-  "version": "2.0.1",
+  "name": "@nesk/puphpeteer",
+  "version": "2.0.0",
   "description": "A Puppeteer bridge for PHP, supporting the entire API.",
   "keywords": [
     "php",
@@ -17,6 +17,7 @@
     "url": "https://johann.pardanaud.com/"
   },
   "license": "MIT",
+  "repository": "github:nesk/puphpeteer",
   "engines": {
     "node": ">=9.0.0"
   },
